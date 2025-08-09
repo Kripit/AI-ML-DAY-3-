@@ -20,7 +20,7 @@ We’ll fine-tune it on the following **5 food classes**:
 
 ## 📊 Output  
 A trained model capable of classifying any image into one of the 5 classes above with **high accuracy**.
-# AI-ML-DAY-2
+
 
 
 This project focuses on building a **production-grade food image classifier** using the **YOLOv8 classification head (`yolov8n-cls.pt`)**, fine-tuned on a subset of the **Food-101 dataset**.
